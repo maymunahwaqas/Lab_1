@@ -37,6 +37,8 @@ TERMINAL IS CREATED BY DEVELOPERS FOR DEVELOPERS and that's why it is profession
  | `.git` | makes it a repository||
 | yellow cross | indicates when something has changed||
 | git log | shows you log of commits||
+| git remote add origin | in order to link laptop git to github and keep commits updated||
+| git push origin main | pushes out commits onto github||
  
 
 
