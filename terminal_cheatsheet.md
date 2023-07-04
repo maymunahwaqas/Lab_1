@@ -34,9 +34,9 @@ TERMINAL IS CREATED BY DEVELOPERS FOR DEVELOPERS and that's why it is profession
  | checking in | changes you made||
  | checking out | to check others mistakes so you can update files||
  | Git repository | code which says what to track every change which happens in folder| the place where this code is stored|
- | .git | makes it a repository||
+ | `.git` | makes it a repository||
 | yellow cross | indicates when something has changed||
-
+| git log | shows you log of commits||
  
 
 
