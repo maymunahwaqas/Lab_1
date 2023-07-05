@@ -40,7 +40,10 @@ TERMINAL IS CREATED BY DEVELOPERS FOR DEVELOPERS and that's why it is profession
 | `git log` | shows you log of commits||
 | `git remote add origin` | in order to link laptop git to github and keep commits updated||
 | `git push origin main` | pushes out commits onto github (our origin)||
-
+adding line 5
+adding line 7
+ #title 2
+ 
  
 
 
