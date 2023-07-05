@@ -36,14 +36,12 @@ TERMINAL IS CREATED BY DEVELOPERS FOR DEVELOPERS and that's why it is profession
  | Git repository | code which says what to track every change which happens in folder| the place where this code is stored|
  | `.git` | makes it a repository||
   `git init` | init command to get git main | stands for initialise|
-| yellow cross | indicates when something has changed||
+| yellow cross | indicates when something has changed| shows when there is nothing else to commit|
 | `git log` | shows you log of commits||
 | `git remote add origin` | in order to link laptop git to github and keep commits updated||
 | `git push origin main` | pushes out commits onto github (our origin)||
-adding line 5
-adding line 7
- #title 2
- 
+
+
  
 
 
